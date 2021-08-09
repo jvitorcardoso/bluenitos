@@ -1,0 +1,670 @@
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\artur\Desktop\Blue\Bootcamp\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\rosat\Downloads\CodeBlueV3\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\CodeBlueV4\CodeBlueV4\CodeBlue\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV6\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV7\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\caio_\OneDrive\Documentos\CodeBlueV8\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\artur\Desktop\CodeBlue\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\appsettings.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.exe
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.deps.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.runtimeconfig.dev.json
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\CodeBlue.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.Identity.Web.UI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfoInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.AssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CoreCompileInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.Manifest.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\staticwebassets\CodeBlue.StaticWebAssets.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\scopedcss\bundle\CodeBlue.styles.css
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.RazorTargetAssemblyInfo.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.CopyComplete
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\ref\CodeBlue.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.genruntimeconfig.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Debug\net5.0\CodeBlue.csproj.AssemblyReference.cache

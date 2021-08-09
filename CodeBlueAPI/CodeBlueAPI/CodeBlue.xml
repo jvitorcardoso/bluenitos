@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CodeBlue</name>
+    </assembly>
+    <members>
+        <member name="M:CodeBlue.Controllers.AuthController.Register(CodeBlue.Models.Users)">
+            <summary>
+            Endpoint responsável por criar um login de acesso a aplicação, Informar: Username, Email, PasswordHash, Nome e Sobrenome JSON
+            </summary>
+            <param name="_user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.AuthController.Token(CodeBlue.Models.Users)">
+            <summary>
+            Endpoint responsável pela geração do Token de segurança. Informar : Email e PasswordHash JSON
+            </summary>
+            <param name="_user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.AuthController.Logged">
+            <summary>
+            Endpoint responsável por retornar o usuário que está logado no momento.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.ExercisesController.Create(CodeBlue.Models.Exercise)">
+            <summary>
+            Endpoint responsável pela criação dos exercícios. Informar: Descrição, Resultado e PontosPremiacao JSON
+            </summary>
+            <param name="e"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.ExercisesController.GetAll">
+            <summary>
+            Endpoint responsável por buscar a lista completa de exercícios no banco de dados.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.ExercisesController.Get(System.Nullable{System.Int32},System.String)">
+            <summary>
+            Endpoint responsável por buscar o exercício relacionado pelo seu ID ou buscar pelo ID comparando com o resultado encontrado pelo usuário. ID obrigatório, resultado passando via Header.
+            </summary>
+            <param name="id"></param>
+            <param name="resultado"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.ExercisesController.Update(CodeBlue.Models.Exercise)">
+            <summary>
+            Endpoint responsável por editar dados de um exercício cadastrado. Informar: Descrição, Resultado e PontosPremiacao JSON
+            </summary>
+            <param name="u"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.ExercisesController.Delete(System.Int32)">
+            <summary>
+            Endpoint responsável por deletar exercícios pelo seu Id, somente Usuários com perfil SuperAdmin tem permissão.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.UsersController.GetAll">
+            <summary>
+            Endopoint responsável por buscar a lista completa de usuários cadastrados na aplicação.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.UsersController.Get(System.String)">
+            <summary>
+            Endpoint responsável por buscar um usuário específico, tendo seu Id como parâmetro.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.UsersController.Update(CodeBlue.Models.Users)">
+            <summary>
+            Endpoint responsável por editar dados de um usuário cadastrado. Informar: Nome e Sobrenome JSON
+            </summary>
+            <param name="u"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.UsersController.Delete(System.String)">
+            <summary>
+            Endpoint responsável por deletar usuários pelo seu Id, somente Usuários com perfil SuperAdmin tem permissão.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeBlue.Controllers.UsersController.Get(System.Int32)">
+            <summary>
+            Endpoint responsável por retornar uma lista de usuários ordenada por sua pontuação. Como parâmetro devemos informar a quantidade desejada. 
+            </summary>
+            <param name="qtd"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

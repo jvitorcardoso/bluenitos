@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CodeBlueV1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\caio_\\OneDrive\\Área\ de\ Trabalho\\CodeBlueV10\\CodeBlue\\obj\\Debug\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="CodeBlue.CodeBlueContext" description="" value="Data Source=tcp:codebluedbapiserver.database.windows.net,1433;Initial Catalog=CodeBlue_db;User Id=codeblueadmin@codebluedbapiserver;Password=blue@123" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\caio_\\OneDrive\\Área\ de\ Trabalho\\CodeBlueV10\\CodeBlue\\obj\\Debug\\net5\.0\\PubTmp\\EFSQLScripts\\CodeBlue\.CodeBlueContext\.sql$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARd4SeuC9/E2pYZc8BMu3vgAAAAACAAAAAAAQZgAAAAEAACAAAACxT140zf6oVxBldVSlic0TZ0eUWNkN7vG31jnKtuQZDAAAAAAOgAAAAAIAACAAAABxVnj+6RXjeU12DUBJbw+hmAedfzICVi6rrXiwM/mgP4AAAAALiWngf7ZdM7O10/FCeq/k90oiiyvXnRAwqjLW0/rrnyQsL091RlXDR/ukO6oRzbSXCYvl1h7LrZWeilne5d6fuvQBqnOkmnic+v61DH9/FDBYiZIqzOrQ5/6f74a/qVj1CgUZweSdteioX4He2wEJn2BgOul8tgr8J9FrZc/kh0AAAACXIbwdA2o399zqA+QKP9/FgMusWH3TurEQWgOSqxCoBUtPXlYRvH80mouUGq4V4rgKtVkLY+osI5hEX1y0Lg2x</EncryptedPassword>
+    <History>True|2021-08-08T15:36:05.4235497Z;True|2021-08-06T22:07:37.1211150-03:00;True|2021-08-06T15:07:27.7883679-03:00;True|2021-08-06T14:37:04.8173286-03:00;True|2021-08-06T13:10:35.6471606-03:00;False|2021-08-06T13:09:26.2532299-03:00;False|2021-08-06T13:07:48.9758555-03:00;True|2021-08-06T12:57:54.7895928-03:00;True|2021-08-05T23:17:54.1210322-03:00;False|2021-08-05T22:04:13.1410436-03:00;True|2021-08-05T20:44:21.0497574-03:00;True|2021-08-05T20:35:17.8318074-03:00;False|2021-08-05T20:23:28.1536509-03:00;True|2021-07-31T16:36:16.0484219-03:00;True|2021-07-31T16:32:07.6131527-03:00;True|2021-07-31T16:06:54.6605876-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="CodeBlue.CodeBlueContext">
+      <Value>Data Source=tcp:codebluedbapiserver.database.windows.net,1433%3bInitial Catalog=CodeBlue_db%3bUser Id=codeblueadmin%40codebluedbapiserver%3bPassword=blue%40123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
