@@ -38,7 +38,6 @@ const start = () => {
           />
           <Image w={["12", "20", "16"]} src={Images.CSHARP} alt="c-sharp" />
           <Image w={["12", "20", "16"]} src={Images.PYTHON} alt="python" />
-          <Image w={["12", "20", "16"]} src={Images.MYSQL} alt="mysql" />
         </HStack>
         <Text
           fontSize={["xl", "3xl"]}

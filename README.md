@@ -43,15 +43,18 @@
 
 ## :dart: Sobre
 
-CodeBlue - Plataforma de
+CodeBlue - Plataforma de resolução de exercícios relacionados a programação.
 
 ## Backlog
 
 ## :sparkles: Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+:heavy_check_mark: Navegação dos exercícios através de cards por linguagem específica;\
+:heavy_check_mark: Lista de exercícios contendo pontuação e botão para início;\
+:heavy_check_mark: Editor de texto online com interpretador e intellisense embutidos para resolução dos exercícios;\
+:heavy_check_mark: Ranking geral de pontuadores;\
+:heavy_check_mark: Dashboard de progresso;\
+:heavy_check_mark: Update de dados do usuário.
 
 ## :rocket: Tecnologias
 
@@ -68,6 +71,14 @@ Front-end:
 - [Ramda](https://ramdajs.com/)
 - [React-Icons](https://react-icons.github.io/react-icons/search?q=two)
 - [Fontawesome](https://fontawesome.com)
+
+Back-end:
+
+- [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)
+- [Swagger](https://swagger.io)
+- [MS SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-2019)
+- [Microsoft Azure](https://azure.microsoft.com/pt-br/)
+
 
 ## :white_check_mark: Pré requisitos
 
@@ -99,7 +110,7 @@ Feito com :heart: por
 <a href="https://github.com/alexrocha97" target="_blank">Alex Rocha</a>\
 <a href="https://github.com/arturnascimento" target="_blank">Artur Nascimento</a>\
 <a href="https://github.com/bernaRocha" target="_blank">Bernardo Monteiro</a>\
-<a href="https://github.com/kylelionegds" target="_blank">Caio Edgs</a>\
+<a href="https://github.com/kylelionegds" target="_blank">Caio Egds</a>\
 <a href="https://github.com/c-Tos1wa" target="_blank">Cristina Iwassaki</a>\
 <a href="https://github.com/jvitorcardoso" target="_blank">João Cardoso</a>\
 <a href="https://github.com/JulianePires" target="_blank">Juliane Pires</a>\

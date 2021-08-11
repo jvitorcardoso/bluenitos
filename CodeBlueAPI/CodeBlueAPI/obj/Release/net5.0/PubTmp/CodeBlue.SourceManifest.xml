@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\caio_\OneDrive\Área de Trabalho\CodeBlueV10\CodeBlue\obj\Release\net5.0\PubTmp\EFSQLScripts\CodeBlue.CodeBlueContext.sql" />
+</sitemanifest>

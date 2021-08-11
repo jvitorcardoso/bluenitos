@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/codebluedbapiserver/databases/CodeBlue_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:CodeBlueConnectionStrings",
+      "secretStore": "AzureAppSettings"
+    },
+    "mssql2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/codebluedbapiserver/databases/CodeBlue_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:CodeBlueBDConnectionStrings",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
