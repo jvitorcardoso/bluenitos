@@ -22,3 +22,9 @@ export const languagesArray: languages[] = [
   "typescript",
   "dart",
 ];
+
+export const Errors = {
+  REQUISITION: "Ocorreu um problema ao tentar realizar esta ação, tente novamente",
+  LOGINENTITY: "Email ou senha inválidos",
+  CREATEERROR: "Ocorreu um erro ao criar a sua conta, tente novamente",
+}

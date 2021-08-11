@@ -65,7 +65,7 @@ export const useUpdateChallenge = () => {
 export const GET_CHALLENGE = "getChallenge";
 
 interface GetChallengeInfo {
-  challenge_id: string;
+  challenge_id: number;
   token: string;
 }
 

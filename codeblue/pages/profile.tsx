@@ -1,61 +1,113 @@
+import {
+  Flex,
+  HStack,
+  Image,
+  Stat,
+  StatLabel,
+  StatNumber,
+  Text,
+  VStack,
+} from "@chakra-ui/react";
 import { GetServerSideProps } from "next";
 import { parseCookies } from "nookies";
 import React from "react";
-
+import styled from "styled-components";
 import { Layout } from "../components/Layout";
-
-import { Box, VStack, HStack, Text, Image, Spacer } from "@chakra-ui/react";
-
+import { SessionTitle } from "../components/SessionTitle";
+import { useLoggedUser } from "../hooks/useLoggedUser";
+import { useGetUsersRank } from "../hooks/useRanking";
 import { ApplicationPaths } from "../types";
 import { TOKEN_KEY } from "../utils/authenticated";
 
-const profile = () => {
+const Profile = () => {
+  const { [TOKEN_KEY]: token } = parseCookies(null);
+  const { data } = useLoggedUser(token);
+  const ranking = useGetUsersRank({ qtd: 50, token: token });
+
+  const userRanking = ranking.data?.findIndex((user) => user.id === data?.id);
+
   return (
     <Layout title="perfil" currentPath="profile">
-      <HStack align="stretch" alignItems="left" direction="column">
-        <HStack ml="40">
+      <VStack w="100%">
+        <HStack spacing={6} align="stretch" alignItems="center">
           <VStack>
-            <Box
+            <Image
+              src={data?.avatar}
+              alt={`${data?.nome} ${data?.sobrenome}`}
               w="40"
               h="40"
+              textAlign="center"
               color="white"
               bg="brand.800"
               borderRadius="10"
               mt="10"
-            >
-              <Text alignItems="center">
-                Profile {/* TODO => Link com a foto no banco de dados*/}
-              </Text>
-            </Box>
+              objectFit="cover"
+              border="2px"
+              borderColor="white"
+            />
 
-            <Text pl="10" fontSize="20px">
-              Nome: {/* TODO => Link com nome no banco de dados*/}
+            <Text color="gray.50" fontWeight="600" fontSize="xl">
+              {`${data?.nome} ${data?.sobrenome}`}
             </Text>
-            <Text pl="10" fontSize="20px">
-              Email: {/* TODO => Link com o email no banco de dados*/}
+            <Text fontWeight="600" fontSize="lg" color="gray.50">
+              @<Colored>{data?.userName}</Colored>
             </Text>
+          </VStack>
+
+          <VStack>
+            <Image
+              display={["none", "none", "none", "flex"]}
+              alt="Moça programando"
+              boxSize="380px"
+              src="/images/mocacodando.png"
+            />
           </VStack>
         </HStack>
 
-        <Spacer />
+        <Flex w="100%" direction="column" alignItems="flex-start">
+          <SessionTitle title="conquistas" />
 
-        <VStack mr="20">
-          <Image
-            alt="Moça programando"
-            boxSize="380px"
-            src="/images/mocacodando.png"
-          />
-        </VStack>
-      </HStack>
-
-      <VStack w="100%" h="100%" direction="column" alignItems="center">
-        <Text fontSize="20px">Conquistas:</Text>
-
-        <Box w="80%" h="40" bg="brand.800" borderRadius="10"></Box>
+          <VStack
+            mt="4"
+            w="80%"
+            minH="40"
+            bg="brand.800"
+            borderRadius="10"
+            p="8"
+            border="3px"
+            borderColor="gray.50"
+            borderStyle="dashed"
+            borderInline="dodgerblue"
+            alignSelf="center"
+          >
+            <HStack w="100%" spacing="auto">
+              <Text fontWeight="600" fontSize="xl" color="brand.400" w="100%">
+                Pontuação:
+              </Text>
+              <Stat >
+                <StatLabel color="gray.50">points</StatLabel>
+                <StatNumber textAlign="right" color="brand.300">{data?.pontuacao}</StatNumber>
+              </Stat>
+            </HStack>
+            <HStack w="100%" spacing="auto">
+              <Text fontWeight="600" fontSize="xl" color="brand.400" w="100%">
+                Ranking:
+              </Text>
+              <Stat >
+                <StatLabel color="gray.50">position</StatLabel>
+                <StatNumber textAlign="right" color="brand.300">{userRanking! + 1}</StatNumber>
+              </Stat>
+            </HStack>
+          </VStack>
+        </Flex>
       </VStack>
     </Layout>
   );
 };
+
+const Colored = styled.strong`
+  color: #c869a9;
+`;
 
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
   const { [TOKEN_KEY]: token } = parseCookies(ctx);
@@ -73,4 +125,4 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
     props: {},
   };
 };
-export default profile;
+export default Profile;

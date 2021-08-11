@@ -21,7 +21,7 @@ export type UserReturn = {
   sobrenome: string;
   pontuacao: number;
   avatar: string;
-  exercises: string[];
+  exercises: number[];
 };
 
 export const GET_USER_DATA = "getLoggedUser";

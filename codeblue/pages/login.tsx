@@ -104,8 +104,8 @@ const Login = () => {
           direction="column"
         >
           <Image src={Images.LOGO} alt="codeblue logo" />
-          <Text color="white" fontSize="2xl">
-            Faça seu cadastro
+          <Text color="white" fontSize="xl">
+            Pratique, aprenda e desafie
           </Text>
           <VStack spacing={2} w={["80%", "80%", "80%", "80"]}>
             <FormControl

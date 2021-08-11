@@ -1,5 +1,5 @@
 import { useFormik } from "formik";
-import React, { useRef } from "react";
+import React, { useContext, useRef } from "react";
 import { BsBoxArrowInRight } from "react-icons/bs";
 import {
   FaEnvelope,
@@ -28,19 +28,23 @@ import { useRegister } from "../hooks/useRegister";
 import { passwordRegex } from "../utils/functions";
 import { ApplicationPaths } from "../types";
 import { InputFile } from "../components/FileInput";
-import { Images } from "../constants";
+import { Errors, Images } from "../constants";
 import { FormInput } from "../components/FormInput";
 import { InitialImage } from "../components/InitialImage";
 import { Footer } from "../components/Footer";
 import { GetServerSideProps } from "next";
 import { TOKEN_KEY } from "../utils/authenticated";
 import { parseCookies } from "nookies";
+import { useLogin } from "../hooks/useLogin";
+import { AuthContext } from "../context/AuthContext";
 
 const Create = () => {
   const InputRef = useRef<HTMLInputElement>();
   let router = useRouter();
+  const { handleSetToken } = useContext(AuthContext);
 
   const { mutate } = useRegister();
+  const login = useLogin()
 
   type formikType = {
     Avatar: string;
@@ -85,7 +89,7 @@ const Create = () => {
         .string()
         .test(
           "password-strong",
-          "A senha não cumpre exigências, verifique abaixo",
+          "A senha precisa ter 8 dígitos, letras maiúsculas e minúsculas e um caractere especial, verifique abaixo",
           (value) => passwordRegex.test(value!)
         )
         .required("Senha é obrigatória"),
@@ -101,11 +105,16 @@ const Create = () => {
           Avatar: values.Avatar,
         },
         {
-          onSuccess: () => {
-            router.push(ApplicationPaths.HOME);
+          onSuccess:  () => {
+             login.mutate({Email: values.Email, PasswordHash: values.PasswordHash}, {
+              onSuccess: (data) => {
+                handleSetToken(data)
+                router.push(ApplicationPaths.HOME);
+              }
+            })
           },
-          onError: (err) => {
-            formik.setFieldError("Nome", String(err));
+          onError: () => {
+            formik.setFieldError("Nome", Errors.CREATEERROR)
           },
         }
       );
@@ -195,14 +204,14 @@ const Create = () => {
             spacing={4}
             alignItems="center"
           >
-            <Text color="white" fontSize="2xl">
+            <Text color="white" fontSize="xl">
               Faça seu cadastro
             </Text>
             <VStack spacing={2} w={["80%", "80%", "80%", "100%"]}>
               <FormControl
                 id="Nome"
                 isRequired
-                isInvalid={!!formik.errors.Nome && !!formik.touched.Nome}
+                isInvalid={!!formik.errors.Nome}
               >
                 <FormErrorMessage w="auto">
                   {formik.errors.Nome}
@@ -218,7 +227,7 @@ const Create = () => {
                 id="Sobrenome"
                 isRequired
                 isInvalid={
-                  !!formik.errors.Sobrenome && !!formik.touched.Sobrenome
+                  !!formik.errors.Sobrenome
                 }
               >
                 <FormErrorMessage>{formik.errors.Sobrenome}</FormErrorMessage>
@@ -233,7 +242,7 @@ const Create = () => {
                 id="Username"
                 isRequired
                 isInvalid={
-                  !!formik.errors.Username && !!formik.touched.Username
+                  !!formik.errors.Username
                 }
               >
                 <FormErrorMessage>{formik.errors.Username}</FormErrorMessage>
@@ -247,7 +256,7 @@ const Create = () => {
               <FormControl
                 id="Email"
                 isRequired
-                isInvalid={!!formik.errors.Email && !!formik.touched.Email}
+                isInvalid={!!formik.errors.Email}
               >
                 <FormErrorMessage>{formik.errors.Email}</FormErrorMessage>
                 <FormInput
@@ -261,7 +270,7 @@ const Create = () => {
                 id="PasswordHash"
                 isRequired
                 isInvalid={
-                  !!formik.errors.PasswordHash && !!formik.touched.PasswordHash
+                  !!formik.errors.PasswordHash
                 }
               >
                 <FormErrorMessage>

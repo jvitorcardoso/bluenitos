@@ -6,7 +6,7 @@ import { parseCookies } from "nookies";
 import { TOKEN_KEY } from "../utils/authenticated";
 
 interface SingleProgressProps {
-  id: string;
+  id: number;
 }
 
 export default function SingleProgress({ id }: SingleProgressProps) {

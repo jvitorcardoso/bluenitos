@@ -14,6 +14,13 @@ const buttons = {
         bgColor: "brand.800",
       },
     },
+    unstyled: {
+      color: "brand.800",
+      bg: "transparent",
+      _hover: {
+        color: "brand.300",
+      },
+    },
     nav: {
       color: "brand.800",
       bgColor: "transparent",

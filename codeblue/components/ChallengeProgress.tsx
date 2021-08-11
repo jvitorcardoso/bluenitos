@@ -14,7 +14,7 @@ export default function ChallengeProgress({
   return (
     <>
       <HStack spacing={5} p={4} alignItems='center'>
-        <Icon as={FaFlagCheckered} color='gray.100' fontSize='25' mr={6} />
+        <Icon as={FaFlagCheckered} color='gray.50' fontSize='25' mr={6} />
         <Text
           color='gray.100'
           fontSize='25'
