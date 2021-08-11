@@ -11,16 +11,9 @@ export const Images = {
 };
 
 export const languagesArray: languages[] = [
-  "javascript",
-  "java",
-  "python",
-  "ruby",
-  "cpp",
-  "sql",
-  "csharp",
-  "elixir",
-  "typescript",
-  "dart",
+  "JavaScript",
+  "Python",
+  "Csharp",
 ];
 
 export const Errors = {

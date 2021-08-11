@@ -5,11 +5,6 @@ import { Layout } from "../components/Layout";
 
 import {
   VStack,
-  Box,
-  Text,
-  Avatar,
-  HStack,
-  Spacer,
   Spinner,
 } from "@chakra-ui/react";
 

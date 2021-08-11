@@ -19,7 +19,7 @@ interface EditorProps {
 
 export function Editor({ onChange }: EditorProps) {
   const [selectedLanguage, setSelectedLanguage] = useState<languages>(
-    "javascript"
+    "JavaScript"
   );
 
   function handleChangeLanguage(newLanguage: languages) {
@@ -48,7 +48,7 @@ export function Editor({ onChange }: EditorProps) {
       </HStack>
       <MonacoEditor
         height="60vh"
-        defaultLanguage={selectedLanguage}
+        defaultLanguage={selectedLanguage.toLowerCase()}
         defaultValue="// let's write some broken code 😈"
         onChange={(value) => onChange(value!)}
         theme="vs-dark"
