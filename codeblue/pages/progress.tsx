@@ -17,11 +17,11 @@ const Progress = () => {
 
   return (
     <Layout title="progresso" currentPath="progress">
-      <Text mt="4" color="gray.100">
+      <Text mt="0.3" color="gray.100">
         Exercite sua lógica e expanda suas conexões
       </Text>
 
-      <Text color="gray.50" mt={8} fontSize="24">
+      <Text color="gray.50" mt={10} fontSize="24">
         por concluidos
       </Text>
       <HStack alignItems="center">

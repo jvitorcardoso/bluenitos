@@ -37,12 +37,7 @@ const langugages = [
     description:
       "C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java.",
   },
-  {
-    name: "sql",
-    src: "/images/sql.svg",
-    description:
-      "Structured Query Language, ou Linguagem de Consulta Estruturada ou SQL, é a linguagem de pesquisa declarativa padrão para banco de dados relacional. Muitas das características originais do SQL foram inspiradas na álgebra relacional.",
-  },
+  
 ];
 
 const Home = () => {
