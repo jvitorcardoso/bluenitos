@@ -1,3 +1,4 @@
+import { AxiosError, AxiosPromise } from "axios";
 import { useMutation, useQuery } from "react-query";
 import requestAxios from "../utils/requests";
 import { UserReturn } from "./useLoggedUser";
@@ -84,6 +85,34 @@ export const getChallenge = async (
 
 export const useGetChallenge = (info: GetChallengeInfo) => {
   return useQuery([GET_CHALLENGE, info], () => getChallenge(info));
+};
+
+/* SUBMIT CHALLENGE */
+
+export const SUBMIT_CHALLENGE = "submitChallenge";
+
+interface SubmitChallengeInfo {
+  challenge_id: number;
+  resultado: string;
+  token: string;
+}
+
+export const submitChallenge = async (
+  info: SubmitChallengeInfo
+): Promise<string> => {
+  const { data } = await requestAxios({
+    url: `/api/Exercises/${info.challenge_id}`,
+    method: "GET",
+    headers: {
+      Authorization: `Bearer ${info.token}`,
+      resultado: `${info.resultado}`
+    },
+  });
+  return data;
+};
+
+export const useSubmitChallenge = () => {
+  return useMutation(submitChallenge)
 };
 
 /* CREATE CHALLENGE */

@@ -34,23 +34,32 @@ export function MainRanking({
   };
 
   return (
-    <HStack mb={3} mt={2}>
-      {isPodium() ? (
-        <Image src={switchIcon()} alt="trophie" />
-      ) : (
-        <Icon as={FaStar} fontSize="xl" mx="2" />
-      )}
+    <HStack mb={3} mt={2} justifyContent="space-between">
+      <HStack>
+        {isPodium() ? (
+          <Image src={switchIcon()} alt="trophie" />
+        ) : (
+          <Icon as={FaStar} fontSize="xl" mx="2" />
+        )}
 
-      <Text color="gray.400" fontWeight="600">
-        {classification}º
-      </Text>
-      <Avatar src={avatar} name={name} color="white" size="sm" bg="brand.800" />
+        <Text color="gray.400" fontWeight="600">
+          {classification}º
+        </Text>
+        <Avatar
+          src={avatar}
+          name={name}
+          color="white"
+          size="sm"
+          bg="brand.800"
+        />
 
-      <Text color="gray.400" fontSize="16" fontWeight="600">
-        {name}
-      </Text>
-      <Text display={["none", "none", "flex"]} color="gray.400">
-        {String(points)} pontos
+        <Text color="gray.400" fontSize="16" fontWeight="600">
+          {name}
+        </Text>
+      </HStack>
+      <Text fontSize="sm" display={["none", "none", "flex"]} color="gray.400">
+        {String(points)} <br />
+        pontos
       </Text>
     </HStack>
   );
