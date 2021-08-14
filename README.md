@@ -120,4 +120,7 @@ Feito com :heart: por
 
 ## Pitch de apresentação
 ### https://www.canva.com/design/DAEm15OH63U/OFJFSq0RZgW0L-7X5Ad-TA/view?utm_content=DAEm15OH63U&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+
+## Quer utilizar a aplicação? Clica no link abaixo!
+### https://codeblue.vercel.app
 <a href="#top">Voltar para o topo</a>
