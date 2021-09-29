@@ -1,27 +1,25 @@
-import { GetServerSideProps } from "next";
-import { parseCookies } from "nookies";
-import React from "react";
-import { GoPlay } from "react-icons/go";
-
 import {
   Flex,
   Icon,
   IconButton,
   Spinner,
   Table,
-  TableCaption,
   Tbody,
   Td,
   Th,
   Thead,
   Tr,
 } from "@chakra-ui/react";
+import { GetServerSideProps } from "next";
+import { useRouter } from "next/dist/client/router";
+import { parseCookies } from "nookies";
+import React from "react";
+import { GoPlay } from "react-icons/go";
 
 import { Layout } from "../components/Layout";
 import { useGetChallenges } from "../hooks/useChallenges";
 import { ApplicationPaths } from "../types";
 import { TOKEN_KEY } from "../utils/authenticated";
-import { useRouter } from "next/dist/client/router";
 
 const Challenges = () => {
   const { [TOKEN_KEY]: token } = parseCookies(null);

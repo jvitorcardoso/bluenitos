@@ -10,14 +10,16 @@ const files = {
     language: "javascript",
     value: `/*
     Construa o seu código 
-    Mostre o resultado no console
+    Mostre o resultado no container acima
     O id do container é 'editor_container'
     Uma dica: utilize manipulação de dom!
     Caso você considere que o valor está correto
     Clique em enviar para submeter o desafio
     
     Bom desafio!
-  */`,
+  */
+  
+  document.getElementById('editor_container').innerHTML=''`,
   },
 };
 
